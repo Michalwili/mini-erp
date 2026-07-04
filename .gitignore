@@ -22,4 +22,4 @@ out/
 application-local.properties
 
 # Docker
-docker-compose.override.yml
+docker-compose.override.ymlmini-erp.zip
