@@ -1,0 +1,25 @@
+# Maven
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logi
+*.log
+
+# Zmienne środowiskowe / sekrety
+.env
+application-local.properties
+
+# Docker
+docker-compose.override.yml
